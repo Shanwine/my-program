@@ -1,5 +1,5 @@
 streamlit
 pillow
-streamlit-lottle
+streamlit-lottie
 streamlit-on-hover-tabs
 requests
